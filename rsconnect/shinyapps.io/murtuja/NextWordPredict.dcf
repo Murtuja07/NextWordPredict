@@ -1,0 +1,14 @@
+name: NextWordPredict
+title: NextWordPredict
+username:
+account: murtuja
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6022500
+bundleId: 5768118
+url: https://murtuja.shinyapps.io/NextWordPredict/
+when: 1649194335.8607
+lastSyncTime: 1649194335.86071
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md|sampleall/SampleAll.txt|Swift_Key_Data_Tokenization.R|final
